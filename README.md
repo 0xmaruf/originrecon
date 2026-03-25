@@ -17,6 +17,7 @@ A powerful tool for finding the real origin IP of a website hidden behind a CDN 
 
 ```bash
 go install github.com/0xmaruf/originrecon@latest
+If the binary lands in $GOPATH/bin just move the originrecon to /usr/local/bin 
 ```
 
 ---
